@@ -7,6 +7,13 @@ In Uber System, we implemented different types of objects:<br>
 -- Billing<br>
 -- Admin<br>
 
+Technology Stack: <br>
+
+1. Backend: Node.js, Express.js, rabbitmq<br>
+2. Frontend: HTML, CSS, Bootstrap, AngularJs, Google Maps API<br>
+3. Database: MySQL, Redis, MongoDB<br>
+4. Performance Tool: JMETER<br>
+
 Using this website, customer can request a ride, driver can accept the request and drop a customer to the destination. Appropriate bill will be generated. We also implemented Dynamic pricing. Admin can see various statistics like No of rides in particular area, revenue generated per area etc.<br><br>
 
 Screenshots:<br>
